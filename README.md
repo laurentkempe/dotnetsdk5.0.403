@@ -1,0 +1,1 @@
+﻿Project showing an issue using .NET SDK 5.0.403
